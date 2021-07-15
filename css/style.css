@@ -1,0 +1,59 @@
+header > div:first-child {
+    float: left;
+   
+
+
+}
+header{
+    margin: 3%;
+    margin-left: 23%;
+    margin-right: 17%;
+    width:60%;
+ 
+    height: 100px;
+}
+h1{
+margin-right: -3%;
+margin-top: -7%;
+margin-bottom: 0%;
+float: right;
+font-family:'Brush Script MT', cursive;
+font-size: 250%;
+
+
+}
+header > div:first-child > p  {
+    /* float: right; */
+margin-top: 0%;
+/* position: absolute ; */
+margin-left: 43%;
+font-size: 10px;
+position: absolute;
+  top: 80px;
+  left: -16%;
+  color: rgb(151, 151, 151);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header > div:nth-child(2){
+    float: right;
+
+}
+
+header > div:last-child{
+/* background-color: silver; */
+height: 2%;
+width: 60%;
+
+position: absolute;
+  top: 130px;
+  right: 18%;
+  border-top: 2px groove rgb(201, 201, 201);
+
+
+}
+
+main *{
+    margin-left: 9%;
+    margin-right: 9%;
+}
