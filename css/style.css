@@ -57,3 +57,94 @@ main *{
     margin-left: 9%;
     margin-right: 9%;
 }
+h2{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+}
+#para1{
+font-size: 13px;
+color:  rgb(151, 151, 151);
+margin-top: 0px;
+margin-left: 10%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.printright{
+   float: right;
+ /* width: 60px; */
+ margin: 20px;
+ position: absolute;
+   top: 230px;
+   right: 255px;
+}
+.printright > p{
+    float: right;
+   margin:0px;
+   margin-bottom: 0px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 12px;
+   color: rgb(151, 151, 151); ;
+} 
+.printright > img{
+    float: left;
+    margin:0px;
+    margin-top:3px;
+}
+  
+
+
+#allform{
+    background-image:url("https://github.com/LTUC/amman-201d33/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true") 
+;
+    width: 75%;
+    height: 300px;
+    margin-left: 15%;
+    color: rgb(58, 56, 56); 
+    font-family: cursive;
+}
+#formstyle{
+    float: left;
+    margin: 0px;
+    width: 35%;
+}
+
+#formestyle22{
+    float: right;
+    margin: 0px;
+    width: 35%;
+}
+
+.left{
+margin: 6px;
+}
+.right{
+    margin: 6px;
+}
+
+#lastimg{
+    margin: 10%;
+}
+#lastimg >img{
+float: left;
+margin-right:15px ;
+}
+#lastimg >button{
+    background-color: indianred;
+    float: right;
+    height: 60px;
+    width: 200px;
+    color: ivory;
+  font-weight: bold;
+    position: absolute;
+    right: 100px;
+    top: 1525px;
+}
+
+footer{
+    text-align: center;
+    color:rgb(173, 173, 173) ;
+}
+#imgin{
+    position: absolute;
+    bottom: 20px;
+}
